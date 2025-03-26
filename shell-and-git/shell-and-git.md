@@ -16,3 +16,5 @@
 -git switch -c branch-name = create new branch (oder checkout?)
 -git branch -d branch-name = branch löschen
 -Q = branch verlassen
+
+-test note for testing
