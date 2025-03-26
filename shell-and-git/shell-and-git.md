@@ -1,5 +1,7 @@
 # Shell and Git Workflow
 
+-bash: code index.html zum öffnen
+
 -wenn ordner in terminal ls -la: .git datei vorh. -> ist ein repo
 -0.0)git init = initialisiert repository im ordner
 -git status
@@ -14,3 +16,5 @@
 -git switch -c branch-name = create new branch (oder checkout?)
 -git branch -d branch-name = branch löschen
 -Q = branch verlassen
+
+-test note for testing
